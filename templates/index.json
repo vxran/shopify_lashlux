@@ -84,6 +84,7 @@
         },
         "template--19453390356782__56882a93-1947-42d3-bf30-e3792cc71269-1686168397cbcc56eb-4": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
           }
         },
@@ -95,6 +96,7 @@
         },
         "template--19453390356782__56882a93-1947-42d3-bf30-e3792cc71269-1686168397cbcc56eb-6": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
