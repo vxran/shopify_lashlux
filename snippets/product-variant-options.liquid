@@ -62,9 +62,15 @@ block: block
       {% comment %} Radio button {% endcomment %}
       {% for variant in product.variants %}
         {% if variant.title == value %}
-          {{ value -}}<br>
-          You save {{ variant.compare_at_price | minus: variant.price | money }}<br>
-          {{ variant.price | money }}<br>
+          <div class="variant-name-row">
+            <div class="variant-name">{{ value -}}</div>
+            <div class="variant-price">{{ variant.price | money }}</div>
+          </div>
+          <div class="variant-save-row">
+            <div class="variant-save">You save {{ variant.compare_at_price | minus: variant.price | money }}</div><br>
+            <div class="variant-compare">{{ variant.compare_at_price | money }}</div>
+          </div>
+
         {% endif %}
       {% endfor %}
 
