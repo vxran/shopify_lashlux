@@ -197,16 +197,34 @@ fieldset.product-form__input .form__label {
   color: rgba(var(--color-foreground));
   border-radius: var(--variant-pills-radius);
   color: rgb(var(--color-foreground));
-  display: inline-block;
+  display: block;
   margin: 0.7rem 0.5rem 0.2rem 0;
-  padding: 1rem 2rem;
-  font-size: 1.4rem;
+  padding: 2rem 4rem;
+  font-size: 2.4rem;
   letter-spacing: 0.1rem;
   line-height: 1;
   text-align: center;
   transition: border var(--duration-short) ease;
   cursor: pointer;
   position: relative;
+}
+.variant-name{
+  font-weight: bold;
+}
+.variant-compare{
+  font-size: 1.5rem;
+  text-decoration: line-through;
+}
+.variant-save{
+  font-size: 1.5rem;
+}
+.variant-name-row {
+  display: flex;
+  justify-content: space-between;
+}
+.variant-save-row {
+  display: flex;
+  justify-content: space-between;
 }
 
 .product-form__input input[type='radio'] + label:before {
