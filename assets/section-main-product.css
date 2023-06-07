@@ -171,6 +171,17 @@ variant-selects {
   display: block;
 }
 
+/*Button Text*/
+.button,
+.button-label,
+.shopify-challenge__button,
+.customer button {
+  font-size: 3rem;
+  letter-spacing: 0.1rem;
+  line-height: calc(2.5 + 0.2 / var(--font-body-scale));
+  font-weight: bold;
+}
+
 .product-form__input--dropdown {
   margin-bottom: 1.6rem;
 }
@@ -182,11 +193,11 @@ variant-selects {
 }
 .trending {
   display: inline-block;
-  font-size: 2rem;
+  font-size: 1.5rem;
   border-radius: 25px;
   text-align: center;
-  padding: 5px 15px;
-  background-color: #00B0B9;
+  padding: 5px 10px;
+  background-color: black;
   color: #FFFFFF;
 }
 fieldset.product-form__input .form__label {
