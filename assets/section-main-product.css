@@ -174,11 +174,21 @@ variant-selects {
 .product-form__input--dropdown {
   margin-bottom: 1.6rem;
 }
-
+/*variant label*/
 .product-form__input .form__label {
+  font-weight: bold;
+  font-size: 2rem;
   padding-left: 0;
 }
-
+.trending {
+  display: inline-block;
+  font-size: 2rem;
+  border-radius: 25px;
+  text-align: center;
+  padding: 5px 15px;
+  background-color: #00B0B9;
+  color: #FFFFFF;
+}
 fieldset.product-form__input .form__label {
   margin-bottom: 0.2rem;
 }
@@ -190,16 +200,16 @@ fieldset.product-form__input .form__label {
   height: 1px;
   width: 1px;
 }
-
+/* Variant css*/
 .product-form__input input[type='radio'] + label {
-  border: var(--variant-pills-border-width) solid rgba(var(--color-foreground), var(--variant-pills-border-opacity));
+  border: var(--variant-pills-border-width) solid rgba(var(--color-base-accent-1), var(--variant-pills-border-opacity));
   background-color: rgb(var(--color-background));
   color: rgba(var(--color-foreground));
   border-radius: var(--variant-pills-radius);
   color: rgb(var(--color-foreground));
   display: block;
   margin: 0.7rem 0.5rem 0.2rem 0;
-  padding: 2rem 4rem;
+  padding: 2rem 3rem;
   font-size: 2.4rem;
   letter-spacing: 0.1rem;
   line-height: 1;
@@ -210,11 +220,18 @@ fieldset.product-form__input .form__label {
 }
 .variant-name{
   font-weight: bold;
+  color: #026b70;
+  padding-bottom: 1rem;
+}
+.variant-price{
+  font-weight: bold;
+  font-size: 2.5rem;
 }
 .variant-compare{
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   text-decoration: line-through;
 }
+
 .variant-save{
   font-size: 1.5rem;
 }
@@ -240,12 +257,14 @@ fieldset.product-form__input .form__label {
 }
 
 .product-form__input input[type='radio'] + label:hover {
-  border-color: rgb(var(--color-foreground));
+  border-color: rgb(var(--color-base-accent-1), 3);
 }
-
+/* variant 2 css*/
 .product-form__input input[type='radio']:checked + label {
-  background-color: rgb(var(--color-foreground));
-  color: rgb(var(--color-background));
+  background-color: rgb(var(--color-base-accent-1), 0.2);
+  border-color: rgb(var(--color-base-accent-1), 1);
+  border-width: 4px;
+  color: rgb(var(--color-foreground));
 }
 
 .product-form__input input[type='radio']:not(.disabled) + label > .visually-hidden {
