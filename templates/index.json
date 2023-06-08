@@ -30,6 +30,9 @@
         "template--19453390356782__31c5347b-9422-443f-9e48-41e9816c4752-1686241786efc895d9-1",
         "template--19453390356782__31c5347b-9422-443f-9e48-41e9816c4752-1686241786efc895d9-2"
       ],
+      "custom_css": [
+        ".image-with-text--overlap .image-with-text__content {background-color: #e1ebe7;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/New_Project_7_3ddb3faf-0d81-42d7-924d-8cc1a79ee4da.png",
         "height": "medium",
