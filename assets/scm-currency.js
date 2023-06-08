@@ -67,7 +67,18 @@ function customSwticher(jQuery){
     
     }
 
-                                            var startCurrencySwitcher = function(jQuery) {
+                                                            function  secomappRound(cents,newCurrency){
+cents =parseInt(cents);
+            cents=(cents/10).toFixed(1);
+var centsDots= String(cents).split('.');
+var centsDecema = centsDots[1];
+var centIterger= centsDots[0];
+if( parseInt(centsDecema) != 0) {
+centIterger = parseInt(centIterger) + 1;
+}
+centsDecema=0;
+var centsString= String(centIterger) + String(centsDecema);
+return parseInt(centsString);    }                            var startCurrencySwitcher = function(jQuery) {
 
                     customSwticher(jQuery);
         
@@ -79,7 +90,7 @@ function customSwticher(jQuery){
                     path: '/',
                     domain: window.location.hostname
                 },
-                name: 'scm_currency_4802',
+                name: 'scm_currency_7832',
                 write: function(currency) {
                     SECOMAPP.cookie(this.name, currency, this.configuration);
                 },
@@ -173,7 +184,7 @@ function customSwticher(jQuery){
                                 cents = SECOMAPP.cs.customConvert(orgPrice, shopCurrency, newCurrency);
                             } else {
                                 cents = Currency.convert(orgPrice, shopCurrency, newCurrency);
-                                
+                                cents=secomappRound(cents,newCurrency);
                             }
                         } else {
                             if (jQuery(this).attr('data-currency-'+oldCurrency)) {
@@ -190,7 +201,7 @@ function customSwticher(jQuery){
                                     cents = SECOMAPP.cs.customConvert(orgPrice, oldCurrency, newCurrency);
                                 } else {
                                     cents = Currency.convert(orgPrice, oldCurrency, newCurrency);
-                                   
+                                   cents=secomappRound(cents,newCurrency);
                                 }
                             } else {
                                 if (oldFormat.indexOf('with_comma_separator') == -1) {
@@ -214,7 +225,7 @@ function customSwticher(jQuery){
                                     cents = SECOMAPP.cs.customConvert(orgPrice, oldCurrency, newCurrency);
                                 } else {
                                     cents = Currency.convert(orgPrice, oldCurrency, newCurrency);
-                                    
+                                    cents=secomappRound(cents,newCurrency);
                                 }
                             }
                         }
@@ -298,7 +309,7 @@ function customSwticher(jQuery){
                             }
                         }
                     }
-                    
+                    newCents=secomappRound(newCents,Currency.currentCurrency);
                     return Currency.formatMoney(newCents, newFormat);
                 };
 
@@ -330,7 +341,7 @@ function customSwticher(jQuery){
                             }
                         }
                     }
-                    
+                    newCents=secomappRound(newCents,Currency.currentCurrency);
                     return Currency.formatMoney(newCents, newFormat);
                 };
 
@@ -362,7 +373,7 @@ function customSwticher(jQuery){
                             }
                         }
                     }
-                    
+                    newCents=secomappRound(newCents,Currency.currentCurrency);
                     return Currency.formatMoney(newCents, newFormat);
                 };
 
@@ -394,7 +405,7 @@ function customSwticher(jQuery){
                             }
                         }
                     }
-                    
+                    newCents=secomappRound(newCents,Currency.currentCurrency);
                     return Currency.formatMoney(newCents, newFormat);
                 };
 
