@@ -21,7 +21,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop",
-            "button_link": "shopify:\/\/products\/lash-lux™-vibely-mascara"
+            "button_link": "shopify:\/\/products\/vibely-mascara"
           }
         }
       },
@@ -110,7 +110,7 @@
         "template--19453390356782__56882a93-1947-42d3-bf30-e3792cc71269-1686168397cbcc56eb-6"
       ],
       "settings": {
-        "product": "lash-lux™-vibely-mascara",
+        "product": "vibely-mascara",
         "color_scheme": "background-1",
         "secondary_background": false,
         "media_size": "medium",
