@@ -66,12 +66,12 @@
         "media_fit": "contain",
         "gallery_layout": "thumbnail_slider",
         "media_position": "left",
-        "image_zoom": "hover",
-        "mobile_thumbnails": "show",
+        "image_zoom": "none",
+        "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": true,
-        "padding_top": 60,
-        "padding_bottom": 60
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "3a10a287-9063-40e1-acc2-342a7ccd25d5": {
@@ -170,8 +170,72 @@
         "padding_bottom": 0
       }
     },
+    "57310120-1306-4d0f-8930-34bc34358580": {
+      "type": "page",
+      "settings": {
+        "page": "tabs",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "94bbf017-7b84-418f-a046-c92e0a676ee7": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19453390684462__94bbf017-7b84-418f-a046-c92e0a676ee7-1686167527c5d2beb8-0": {
+          "type": "column",
+          "settings": {
+            "title": "Free Shipping",
+            "text": "<p>We offer free standard shipping on all orders worldwide.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19453390684462__94bbf017-7b84-418f-a046-c92e0a676ee7-1686167527c5d2beb8-1": {
+          "type": "column",
+          "settings": {
+            "title": "World-wide Shipping",
+            "text": "<p>Regardless of order size we can deliver anywhere in the world.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19453390684462__94bbf017-7b84-418f-a046-c92e0a676ee7-1686167527c5d2beb8-2": {
+          "type": "column",
+          "settings": {
+            "title": "100's Of Happy Customers",
+            "text": "<p>Our customers all around the world have nothing but good to say about our product. We are certain you will love it too!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19453390684462__94bbf017-7b84-418f-a046-c92e0a676ee7-1686167527c5d2beb8-0",
+        "template--19453390684462__94bbf017-7b84-418f-a046-c92e0a676ee7-1686167527c5d2beb8-1",
+        "template--19453390684462__94bbf017-7b84-418f-a046-c92e0a676ee7-1686167527c5d2beb8-2"
+      ],
+      "settings": {
+        "title": "Why Us?",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
@@ -208,11 +272,9 @@
     "main",
     "3a10a287-9063-40e1-acc2-342a7ccd25d5",
     "ca7f04a3-73e7-46ad-ad05-31a26385b894",
+    "57310120-1306-4d0f-8930-34bc34358580",
+    "94bbf017-7b84-418f-a046-c92e0a676ee7",
     "related-products",
     "1686075329865f6ea9"
   ]
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 3a336b817c40187402e360ba4fc7c4335b9045bc
