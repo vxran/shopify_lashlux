@@ -60,17 +60,37 @@ block: block
       {% endif %}>
     <label for="{{ section.id }}-{{ option.position }}-{{ forloop.index0 }}">
       {% comment %} Radio button {% endcomment %}
+      {% assign count = 0 %}
       {% for variant in product.variants %}
+        {% assign count = count | plus: 1 %}
         {% if variant.title == value %}
+          {% if count == 1 %}
+            <div class="variant-name-row">
+              <div class="variant-name">{{ value -}}</div>
+              <div class="variant-price">{{ variant.price | money_without_trailing_zeros }}</div>
+            </div>
+          {% else %}
+            <div class="variant-name-row">
+              <div class="variant-name-shipping">
+                <div class="variant-name">{{ value -}}&nbsp;</div>
+                <div class="free-shipping">Free Shipping</div>
+              </div>
+              <div class="variant-price">{{ variant.price | money_without_trailing_zeros }}</div>
+            </div>
+          {% endif %}
 
-          <div class="variant-name-row">
-            <div class="variant-name">{{ value -}}</div>
-            <div class="variant-price">{{ variant.price | money_without_trailing_zeros }}</div>
-          </div>
-          <div class="variant-save-row">
-            <div class="variant-save">You save {{ variant.compare_at_price | minus: variant.price | money_without_trailing_zeros }}</div><br>
-            <div class="variant-compare">{{ variant.compare_at_price | money_without_trailing_zeros }}</div>
-          </div>
+
+          {% if count == 1 %}
+            <div class="variant-save-row">
+              <div class="variant-save">No savings</div><br>
+            </div>
+          {% else %}
+            <div class="variant-save-row">
+              <div class="variant-save">You save {{ variant.compare_at_price | minus: variant.price | money_without_trailing_zeros }}</div><br>
+              <div class="variant-compare">{{ variant.compare_at_price | money_without_trailing_zeros }}</div>
+            </div>
+          {% endif %}
+
 
         {% endif %}
       {% endfor %}

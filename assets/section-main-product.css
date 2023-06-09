@@ -238,6 +238,7 @@ fieldset.product-form__input .form__label {
   font-weight: bold;
   font-size: 2.5rem;
 }
+
 .variant-compare{
   font-size: 1.6rem;
   text-decoration: line-through;
@@ -254,7 +255,21 @@ fieldset.product-form__input .form__label {
   display: flex;
   justify-content: space-between;
 }
-
+.free-shipping{
+  display: inline;
+  font-size: 1rem;
+  font-weight: 100;
+  text-align: center;
+  padding: 5px 5px;
+  background-color: #026b70;
+  color: #FFFFFF;
+  max-height: 2rem;
+}
+.variant-name-shipping{
+  display: flex;
+  justify-content:left;
+  
+}
 .product-form__input input[type='radio'] + label:before {
   content: '';
   position: absolute;
