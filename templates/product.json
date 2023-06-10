@@ -31,7 +31,7 @@
             "show_gift_card_recipient": false
           }
         },
-        "a533e2d5-f4cc-4407-abb0-c264ef90ed4d": {
+        "68ff5fa5-6c8e-4fb0-bbf8-23b8e3e665d9": {
           "type": "shopify:\/\/apps\/vitals-all-in-one-marketing\/blocks\/stock-urgency\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
           "settings": {
           }
@@ -61,7 +61,7 @@
         "description",
         "variant_picker",
         "buy_buttons",
-        "a533e2d5-f4cc-4407-abb0-c264ef90ed4d",
+        "68ff5fa5-6c8e-4fb0-bbf8-23b8e3e665d9",
         "377c4abe-fdb6-44e4-a710-32efd21f89d1",
         "cbc369a4-61d1-4520-b285-693ca53c9354"
       ],
