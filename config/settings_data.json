@@ -11,7 +11,7 @@
     "colors_outline_button_labels": "#0e1b4d",
     "colors_background_1": "#fff",
     "gradient_background_1": "",
-    "colors_background_2": "#FFFFFF",
+    "colors_background_2": "#ffffff",
     "gradient_background_2": "",
     "type_header_font": "harmonia_sans_n6",
     "heading_scale": 110,
@@ -315,5 +315,10 @@
       "popup_shadow_blur": 5,
       "brand_headline": ""
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".shopify-payment-button {display: none;}"
+    ]
   }
 }
