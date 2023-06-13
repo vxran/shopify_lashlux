@@ -170,15 +170,7 @@
     },
     "content_for_index": [
 
-    ],
-    "blocks": {
-      "5134484470793087125": {
-        "type": "shopify:\/\/apps\/vitals-all-in-one-marketing\/blocks\/app-embed\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    }
+    ]
   },
   "presets": {
     "Default": {
@@ -324,8 +316,4 @@
       "brand_headline": ""
     }
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> d8aecdf1d83e8d6cbbde310909b1624e079140ff

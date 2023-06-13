@@ -27,7 +27,7 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false,
+            "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
           }
         },
@@ -253,16 +253,6 @@
     },
     "1686075329865f6ea9": {
       "type": "apps",
-      "blocks": {
-        "9c132294-d610-4071-a263-aef21ce798b6": {
-          "type": "shopify:\/\/apps\/vitals-all-in-one-marketing\/blocks\/product-reviews\/aeb48102-2a5a-4f39-bdbd-d8d49f4e20b8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "9c132294-d610-4071-a263-aef21ce798b6"
-      ],
       "settings": {
         "include_margins": true
       }
