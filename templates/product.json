@@ -42,7 +42,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "FRAGRANCE DESCRIPTION",
-            "icon": "question_mark",
+            "icon": "bottle",
             "content": "<p>Indulge your senses in our fragrances' tantalizing top notes, from Jasmin and Lily (<strong>Black Opium<\/strong>), Peony + Mixed Berries (<strong>Reverse Paris<\/strong>) and Pomegranate + Lily of the Valley (<strong>Exotic Escape<\/strong>)<\/p><ul><li>Our meticulously fused pheromones instill an irresistible aura of self-assured sensuality, playful charm, and allure.<\/li><li>Our alluring rollerball design is compact and easy to carry. Stay refreshed and mesmerizing on the go!<\/li><li>Our lasting scent formula features natural Jojoba oil, which outlasts traditional alcohol-based perfumes.<\/li><li>Expertly crafted to amplify and celebrate your unique body chemistry<\/li><\/ul>",
             "page": ""
           }
@@ -55,6 +55,15 @@
             "content": "<p><strong>Shipping:<\/strong><\/p><p>We're dedicated to fast and efficient service. Your order is our priority, and we strive to ship your items in the quickest time possible. Expect your order to be processed within 24 to 48 hours, excluding weekends and holidays. Current delivery times run between 7 to 10 business days.<\/p><p><strong>Returns:<\/strong><\/p><p>We offer a flexible return policy. You may return or exchange your product within 30 days. We anticipate that you might test a spray or two before deciding. However, please note that bottles used beyond this extent, or those returned outside of our 30-day policy, cannot be accepted and will be returned to you.<\/p>",
             "page": ""
           }
+        },
+        "d79b5288-f699-4fb6-972e-bd3c5e33eeaf": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "question_mark",
+            "content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -65,7 +74,8 @@
         "buy_buttons",
         "5d667edc-1d4e-4cf5-a534-126687ae33ac",
         "377c4abe-fdb6-44e4-a710-32efd21f89d1",
-        "cbc369a4-61d1-4520-b285-693ca53c9354"
+        "cbc369a4-61d1-4520-b285-693ca53c9354",
+        "d79b5288-f699-4fb6-972e-bd3c5e33eeaf"
       ],
       "settings": {
         "enable_sticky_info": true,
