@@ -95,6 +95,102 @@
         "padding_bottom": 12
       }
     },
+    "3a10a287-9063-40e1-acc2-342a7ccd25d5": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19437133725998__3a10a287-9063-40e1-acc2-342a7ccd25d5-1686084341e8bdd98f-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ProductImage1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19437133725998__3a10a287-9063-40e1-acc2-342a7ccd25d5-1686084341e8bdd98f-0": {
+          "type": "column",
+          "settings": {
+            "title": "Travel-friendly Bottle",
+            "text": "<p>The compact size makes it incredibly convenient to carry with you wherever you venture. Enjoy your favorite scent anytime, anywhere, without the hassle of carrying a full-sized bottle.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19437133725998__3a10a287-9063-40e1-acc2-342a7ccd25d5-1686084341e8bdd98f-1",
+        "template--19437133725998__3a10a287-9063-40e1-acc2-342a7ccd25d5-1686084341e8bdd98f-0"
+      ],
+      "custom_css": [
+        ".multicolumn-card {background: white;}",
+        "strong {font-size: 32px;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "circle",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ca7f04a3-73e7-46ad-ad05-31a26385b894": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19437133725998__ca7f04a3-73e7-46ad-ad05-31a26385b894-168607491672b52079-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ProductImage2.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19437133725998__ca7f04a3-73e7-46ad-ad05-31a26385b894-168607491672b52079-1": {
+          "type": "column",
+          "settings": {
+            "title": "Smell like Heaven",
+            "text": "<p>Whether you're seeking to make a lasting impression on a special someone or simply want to enhance your personal charisma, Venom's Pheromone Scent is your ultimate secret weapon.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19437133725998__ca7f04a3-73e7-46ad-ad05-31a26385b894-168607491672b52079-0",
+        "template--19437133725998__ca7f04a3-73e7-46ad-ad05-31a26385b894-168607491672b52079-1"
+      ],
+      "custom_css": [
+        ".multicolumn-card {background: white;}",
+        "strong {font-size: 32px;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "circle",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "eb427e44-b583-42ea-bbe0-2a54d47912fe": {
       "type": "page",
       "custom_css": [
@@ -148,102 +244,6 @@
         "full_width": true,
         "padding_top": 0,
         "padding_bottom": 52
-      }
-    },
-    "3a10a287-9063-40e1-acc2-342a7ccd25d5": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--19437133725998__3a10a287-9063-40e1-acc2-342a7ccd25d5-1686084341e8bdd98f-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ezgif.com-gif-maker_1.gif",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--19437133725998__3a10a287-9063-40e1-acc2-342a7ccd25d5-1686084341e8bdd98f-0": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Thicker & Longer<\/strong>",
-            "text": "<p>Intense, dramatic volume & length, making them up to 5x thicker and longer. Extend your natural lashes to stunning lengths. 4D Silk Fiber Eyelash Mascara is deeply pigmented and instantly creates stunning Lashes<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--19437133725998__3a10a287-9063-40e1-acc2-342a7ccd25d5-1686084341e8bdd98f-1",
-        "template--19437133725998__3a10a287-9063-40e1-acc2-342a7ccd25d5-1686084341e8bdd98f-0"
-      ],
-      "custom_css": [
-        ".multicolumn-card {background: white;}",
-        "strong {font-size: 32px;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "ca7f04a3-73e7-46ad-ad05-31a26385b894": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--19437133725998__ca7f04a3-73e7-46ad-ad05-31a26385b894-168607491672b52079-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/New_Project_7.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--19437133725998__ca7f04a3-73e7-46ad-ad05-31a26385b894-168607491672b52079-1": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Dual-Brush Design<\/strong>",
-            "text": "<p>Dual-Brush design for two incredible looks. Whether you're going for thick and full or long and lean, with Vibely Mascara you don't have to pick just one. Provides volume, separation, and length - The brush bristles are spaced evenly to help separate for longer-looking lashes.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--19437133725998__ca7f04a3-73e7-46ad-ad05-31a26385b894-168607491672b52079-0",
-        "template--19437133725998__ca7f04a3-73e7-46ad-ad05-31a26385b894-168607491672b52079-1"
-      ],
-      "custom_css": [
-        ".multicolumn-card {background: white;}",
-        "strong {font-size: 32px;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     },
     "57310120-1306-4d0f-8930-34bc34358580": {
@@ -336,10 +336,10 @@
   },
   "order": [
     "main",
-    "eb427e44-b583-42ea-bbe0-2a54d47912fe",
-    "f52c5f76-1ef9-448a-aecd-1cbc8c8b2897",
     "3a10a287-9063-40e1-acc2-342a7ccd25d5",
     "ca7f04a3-73e7-46ad-ad05-31a26385b894",
+    "eb427e44-b583-42ea-bbe0-2a54d47912fe",
+    "f52c5f76-1ef9-448a-aecd-1cbc8c8b2897",
     "57310120-1306-4d0f-8930-34bc34358580",
     "94bbf017-7b84-418f-a046-c92e0a676ee7",
     "related-products",
