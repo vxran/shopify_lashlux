@@ -240,10 +240,11 @@ fieldset.product-form__input .form__label {
   font-weight: bold;
   font-size: 2.7rem;
 }
-#ProductSubmitButton-template--19455166611758__main{
+button[type="submit"] {
   color: white;
   background-color: #f84e67;
 }
+
 .variant-compare{
   font-size: 1.7rem;
   text-decoration: line-through;
