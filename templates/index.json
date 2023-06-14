@@ -6,8 +6,8 @@
         "template--19453390356782__31c5347b-9422-443f-9e48-41e9816c4752-1686241786efc895d9-0": {
           "type": "heading",
           "settings": {
-            "heading": "Lash Lux",
-            "heading_size": "h1"
+            "heading": "Venom's Pheromone Scent",
+            "heading_size": "h2"
           }
         },
         "template--19453390356782__31c5347b-9422-443f-9e48-41e9816c4752-1686241786efc895d9-1": {
@@ -59,13 +59,6 @@
     "56882a93-1947-42d3-bf30-e3792cc71269": {
       "type": "featured-product",
       "blocks": {
-        "template--19453390356782__56882a93-1947-42d3-bf30-e3792cc71269-1686168397cbcc56eb-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "template--19453390356782__56882a93-1947-42d3-bf30-e3792cc71269-1686168397cbcc56eb-1": {
           "type": "title",
           "settings": {
@@ -104,7 +97,6 @@
         }
       },
       "block_order": [
-        "template--19453390356782__56882a93-1947-42d3-bf30-e3792cc71269-1686168397cbcc56eb-0",
         "template--19453390356782__56882a93-1947-42d3-bf30-e3792cc71269-1686168397cbcc56eb-1",
         "template--19453390356782__56882a93-1947-42d3-bf30-e3792cc71269-1686168397cbcc56eb-2",
         "template--19453390356782__56882a93-1947-42d3-bf30-e3792cc71269-1686168397cbcc56eb-3",
