@@ -31,12 +31,19 @@
             "show_gift_card_recipient": false
           }
         },
+        "5d667edc-1d4e-4cf5-a534-126687ae33ac": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>30 - DAY SATISFACTION GUARANTEE<\/strong>",
+            "text_style": "body"
+          }
+        },
         "377c4abe-fdb6-44e4-a710-32efd21f89d1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "How it works",
+            "heading": "FRAGRANCE DESCRIPTION",
             "icon": "question_mark",
-            "content": "<p>Experience the versatility of Vibely Mascara with its Dual-Brush design, offering two incredible looks. Embrace the choice between thick and full or long and lean lashes—no need to limit yourself to just one style.<\/p>",
+            "content": "<p>Indulge your senses in our fragrances' tantalizing top notes, from Black Opium's Jasmine and Lily combo, to Reverse Paris's blend of Peony and Mixed Berries, or the Exotic Escape's fusion of Pomegranate and Lily of the Valley.<\/p><ul><li>Our meticulously fused pheromones instill an irresistible aura of self-assured sensuality, playful charm, and allure.<\/li><li>Our alluring rollerball design is compact and easy to carry. Stay refreshed and mesmerizing on the go!<\/li><li>Our lasting scent formula features natural Jojoba oil, which outlasts traditional alcohol-based perfumes.<\/li><li>Expertly crafted to amplify and celebrate your unique body chemistry<\/li><\/ul>",
             "page": ""
           }
         },
@@ -56,6 +63,7 @@
         "description",
         "variant_picker",
         "buy_buttons",
+        "5d667edc-1d4e-4cf5-a534-126687ae33ac",
         "377c4abe-fdb6-44e4-a710-32efd21f89d1",
         "cbc369a4-61d1-4520-b285-693ca53c9354"
       ],
