@@ -13,7 +13,7 @@
         "template--19453390356782__31c5347b-9422-443f-9e48-41e9816c4752-1686241786efc895d9-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Experience the luxurious touch of silk fibers as they delicately coat each lash, adding extraordinary length, volume, and definition.<\/strong><\/p>",
+            "text": "<p>Introducing the revolutionary Pheromone Scent Perfume, the ultimate secret weapon to ignite your irresistible allure and captivate hearts wherever you go!<\/p>",
             "text_style": "body"
           }
         },
@@ -34,7 +34,7 @@
         ".image-with-text--overlap .image-with-text__content {background-color: #ffe3e7;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/New_Project_7_3ddb3faf-0d81-42d7-924d-8cc1a79ee4da.png",
+        "image": "shopify:\/\/shop_images\/ProductImage1.png",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
