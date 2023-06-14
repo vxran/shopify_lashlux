@@ -190,6 +190,8 @@ variant-selects {
   font-weight: bold;
   font-size: 2rem;
   padding-left: 0;
+  color: #f84e67;
+  text-align: center;
 }
 .trending {
   display: inline-block;
@@ -197,7 +199,7 @@ variant-selects {
   border-radius: 25px;
   text-align: center;
   padding: 5px 10px;
-  background-color: black;
+  background-color: #f84e67;
   color: #FFFFFF;
 }
 fieldset.product-form__input .form__label {
@@ -231,45 +233,67 @@ fieldset.product-form__input .form__label {
 }
 .variant-name{
   font-weight: bold;
-  color: #026b70;
-  padding-bottom: 1rem;
+  color: #f84e67;
+ padding: 5px;
 }
 .variant-price{
   font-weight: bold;
-  font-size: 2.5rem;
+  font-size: 2.7rem;
 }
-
+#ProductSubmitButton-template--19455166611758__main{
+  color: white;
+  background-color: #f84e67;
+}
 .variant-compare{
-  font-size: 1.6rem;
+  font-size: 1.7rem;
   text-decoration: line-through;
 }
 
 .variant-save{
   font-size: 1.5rem;
+  
 }
 .variant-name-row {
   display: flex;
   justify-content: space-between;
+  
 }
 .variant-save-row {
   display: flex;
   justify-content: space-between;
+  margin: 1rem 0rem;
+}
+.variant-save-row2{
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem 0rem;
 }
 .free-shipping{
   display: inline;
-  font-size: 1rem;
+  font-size: 1.5rem;
   font-weight: 100;
   text-align: center;
-  padding: 5px 5px;
-  background-color: #026b70;
+  padding: 0.5rem;
+  background-color: #f84e67;
   color: #FFFFFF;
-  max-height: 2rem;
 }
-.variant-name-shipping{
+.get-bonus{
+  display: inline-block;
+  font-size: 1.8rem;
+  font-weight: bold;
+  text-align: center;
+  padding: 0.5rem;
+  border: 2px solid black;
+  border-color: black;
+  color: black;
+}
+
+
+.variant-name-bundle-row{
   display: flex;
-  justify-content:left;
-  
+  justify-content: space-between;
 }
+
 .product-form__input input[type='radio'] + label:before {
   content: '';
   position: absolute;

@@ -69,26 +69,30 @@ block: block
               <div class="variant-name">{{ value -}}</div>
               <div class="variant-price">{{ variant.price | money_without_trailing_zeros }}</div>
             </div>
+            <div class="variant-save-row">
+              <div class="get-bonus">Get {{ count }} Free</div>
+              <div class="variant-compare">{{ variant.compare_at_price | money_without_trailing_zeros }}</div>
+            </div>
           {% else %}
             <div class="variant-name-row">
-              <div class="variant-name-shipping">
-                <div class="variant-name">{{ value -}}&nbsp;</div>
-                <div class="free-shipping">Free Shipping</div>
-              </div>
+              <div class="variant-name">{{ value -}}</div>
               <div class="variant-price">{{ variant.price | money_without_trailing_zeros }}</div>
             </div>
           {% endif %}
 
-
           {% if count == 1 %}
-            <div class="variant-save-row">
-              <div class="variant-save">No savings</div><br>
-            </div>
-          {% else %}
-            <div class="variant-save-row">
-              <div class="variant-save">You save {{ variant.compare_at_price | minus: variant.price | money_without_trailing_zeros }}</div><br>
-              <div class="variant-compare">{{ variant.compare_at_price | money_without_trailing_zeros }}</div>
-            </div>
+
+            {% else %}
+              <div class="variant-save-row">
+                <div class="get-bonus">Get {{ count }} Free</div>
+                <div class="variant-compare">{{ variant.compare_at_price | money_without_trailing_zeros }}</div>
+              </div>
+
+              <div class="variant-name-bundle-row">
+                <div class="free-shipping">Free Shipping</div>
+                <div class="variant-save"></div>
+
+              </div>
           {% endif %}
 
 
