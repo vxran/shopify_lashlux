@@ -77,6 +77,9 @@
         "cbc369a4-61d1-4520-b285-693ca53c9354",
         "d79b5288-f699-4fb6-972e-bd3c5e33eeaf"
       ],
+      "custom_css": [
+        ".product__text .inline-richtext{text-align: center;}"
+      ],
       "settings": {
         "enable_sticky_info": true,
         "media_size": "small",
