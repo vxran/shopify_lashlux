@@ -282,6 +282,9 @@
         "template--19453390684462__94bbf017-7b84-418f-a046-c92e0a676ee7-1686167527c5d2beb8-1",
         "template--19453390684462__94bbf017-7b84-418f-a046-c92e0a676ee7-1686167527c5d2beb8-2"
       ],
+      "custom_css": [
+        ".multicolumn-card {background-color: #fcebee;}"
+      ],
       "settings": {
         "title": "Why Us?",
         "heading_size": "h1",
