@@ -31,7 +31,7 @@
         "template--19453390356782__31c5347b-9422-443f-9e48-41e9816c4752-1686241786efc895d9-2"
       ],
       "custom_css": [
-        ".image-with-text--overlap .image-with-text__content {background-color: #e1ebe7;}"
+        ".image-with-text--overlap .image-with-text__content {background-color: #ffe3e7;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/New_Project_7_3ddb3faf-0d81-42d7-924d-8cc1a79ee4da.png",
@@ -130,8 +130,4 @@
     "pagefly-home",
     "56882a93-1947-42d3-bf30-e3792cc71269"
   ]
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> d8aecdf1d83e8d6cbbde310909b1624e079140ff
