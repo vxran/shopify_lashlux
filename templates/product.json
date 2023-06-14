@@ -78,7 +78,7 @@
         "d79b5288-f699-4fb6-972e-bd3c5e33eeaf"
       ],
       "custom_css": [
-        ".product__text .inline-richtext{text-align: center;}"
+        ".inline-richtext {text-align: center;}"
       ],
       "settings": {
         "enable_sticky_info": true,
