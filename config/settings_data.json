@@ -318,8 +318,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".shopify-payment-button {display: none;}",
-      "#ProductSubmitButton-template--19455166611758__main{color: white; background-color: #f84e67;}"
+      ".shopify-payment-button {display: none;}"
     ]
   }
 }
