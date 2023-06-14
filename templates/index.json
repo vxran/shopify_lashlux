@@ -21,7 +21,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop Now",
-            "button_link": "shopify:\/\/products\/unisex-natural-long-lasting-eau-de-toilette"
+            "button_link": "shopify:\/\/products\/venoms-pheromone-scent"
           }
         }
       },
@@ -105,7 +105,7 @@
         "template--19453390356782__56882a93-1947-42d3-bf30-e3792cc71269-1686168397cbcc56eb-6"
       ],
       "settings": {
-        "product": "unisex-natural-long-lasting-eau-de-toilette",
+        "product": "venoms-pheromone-scent",
         "color_scheme": "background-1",
         "secondary_background": false,
         "media_size": "medium",
