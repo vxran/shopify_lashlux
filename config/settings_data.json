@@ -5,7 +5,7 @@
     "colors_solid_button_labels": "#ffffff",
     "colors_accent_1": "#fa6d83",
     "gradient_accent_1": "",
-    "colors_accent_2": "#fff",
+    "colors_accent_2": "#ffffff",
     "gradient_accent_2": "",
     "colors_text": "#000000",
     "colors_outline_button_labels": "#0e1b4d",
@@ -318,7 +318,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".shopify-payment-button {display: none;}"
+      ".shopify-payment-button {display: none;}",
+      "#ProductSubmitButton-template--19455166611758__main{color: white; background-color: #f84e67;}"
     ]
   }
 }
