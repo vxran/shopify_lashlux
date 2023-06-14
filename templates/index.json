@@ -50,6 +50,9 @@
     },
     "pagefly-home": {
       "type": "pagefly-home",
+      "custom_css": [
+
+      ],
       "settings": {
       }
     },
@@ -110,7 +113,7 @@
         "template--19453390356782__56882a93-1947-42d3-bf30-e3792cc71269-1686168397cbcc56eb-6"
       ],
       "settings": {
-        "product": "vibely-mascara",
+        "product": "unisex-natural-long-lasting-eau-de-toilette",
         "color_scheme": "background-1",
         "secondary_background": false,
         "media_size": "medium",
