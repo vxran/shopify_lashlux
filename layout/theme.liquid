@@ -238,7 +238,9 @@
     </script>
   {% capture cur %}{% include "booster-currency" %}{% endcapture %}{% unless cur contains "Liquid error" %}{{ cur }}{% endunless %}
 {% include 'bucks-cc' %}
-            </head>
+            
+	{{ shop.metafields.loox["global_html_head"] }}
+</head>
 
   <body class="gradient">
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
@@ -298,5 +300,7 @@
   {% include "scm-currency-switcher" %}
 {% include "scm-currency" %}
 {% include 'cjpod' %}
+
+	{{ shop.metafields.loox["global_html_body"] }}
 </body>
 </html>
