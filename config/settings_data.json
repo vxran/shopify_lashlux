@@ -1,7 +1,8 @@
 {
   "current": {
+    "logo": "shopify:\/\/shop_images\/vsLogo.png",
     "logo_width": 50,
-    "favicon": "shopify:\/\/shop_images\/New_Project_5_d8e9d243-82b9-45d2-95c2-993b681303d8.png",
+    "favicon": "shopify:\/\/shop_images\/faviicon.png",
     "colors_solid_button_labels": "#ffffff",
     "colors_accent_1": "#fa6d83",
     "gradient_accent_1": "",
