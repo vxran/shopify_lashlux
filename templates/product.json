@@ -198,6 +198,37 @@
         "padding_bottom": 0
       }
     },
+    "656166e9-0081-4596-84d2-0eac3726bb85": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Compage-table2.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "560ea6c9-aef8-4bf6-b1c2-9e12bb1c4eaa": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify:\/\/files\/videos\/Ad Creative 1.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "eb427e44-b583-42ea-bbe0-2a54d47912fe": {
       "type": "page",
       "custom_css": [
@@ -359,6 +390,8 @@
     "main",
     "3a10a287-9063-40e1-acc2-342a7ccd25d5",
     "ca7f04a3-73e7-46ad-ad05-31a26385b894",
+    "656166e9-0081-4596-84d2-0eac3726bb85",
+    "560ea6c9-aef8-4bf6-b1c2-9e12bb1c4eaa",
     "eb427e44-b583-42ea-bbe0-2a54d47912fe",
     "f52c5f76-1ef9-448a-aecd-1cbc8c8b2897",
     "94bbf017-7b84-418f-a046-c92e0a676ee7",
