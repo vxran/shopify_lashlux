@@ -198,33 +198,46 @@
         "padding_bottom": 0
       }
     },
-    "656166e9-0081-4596-84d2-0eac3726bb85": {
-      "type": "image-banner",
+    "f32f7c72-76a0-4b07-9056-c93e98e42a6e": {
+      "type": "multicolumn",
+      "blocks": {
+        "7f495ff5-ab67-4ab0-a0da-fd4ed49a9223": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Compage-table2.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "50ec2984-b39a-4ee2-93e2-d5944b7c45c1": {
+          "type": "column",
+          "settings": {
+            "title": "Pheromone-Infused Perfumes Proven Effective by Science",
+            "text": "<p>We tap into the potent beauty of nature, concocting a unique blend that is scientifically endorsed to deliver the results we pledge.<\/p><p>Our aspiration extends beyond making you smell divine - we aim to imbue you with an aura of confidence and empowerment.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "7f495ff5-ab67-4ab0-a0da-fd4ed49a9223",
+        "50ec2984-b39a-4ee2-93e2-d5944b7c45c1"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Compage-table2.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "560ea6c9-aef8-4bf6-b1c2-9e12bb1c4eaa": {
-      "type": "video",
-      "settings": {
-        "heading": "",
+        "title": "How is Venom Different?",
         "heading_size": "h1",
-        "enable_video_looping": false,
-        "video": "shopify:\/\/files\/videos\/Ad Creative 1.mp4",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -245,35 +258,15 @@
     "f52c5f76-1ef9-448a-aecd-1cbc8c8b2897": {
       "type": "rich-text",
       "blocks": {
-        "template--19453390684462__f52c5f76-1ef9-448a-aecd-1cbc8c8b2897-1686748701473ebe8b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
         "template--19453390684462__f52c5f76-1ef9-448a-aecd-1cbc8c8b2897-1686748701473ebe8b-1": {
           "type": "text",
           "settings": {
             "text": "<p>* Results according to clinical\/consumer studies. For more information refer to each product page.<\/p>"
           }
-        },
-        "template--19453390684462__f52c5f76-1ef9-448a-aecd-1cbc8c8b2897-1686748701473ebe8b-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
-        "template--19453390684462__f52c5f76-1ef9-448a-aecd-1cbc8c8b2897-1686748701473ebe8b-0",
-        "template--19453390684462__f52c5f76-1ef9-448a-aecd-1cbc8c8b2897-1686748701473ebe8b-1",
-        "template--19453390684462__f52c5f76-1ef9-448a-aecd-1cbc8c8b2897-1686748701473ebe8b-2"
+        "template--19453390684462__f52c5f76-1ef9-448a-aecd-1cbc8c8b2897-1686748701473ebe8b-1"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -284,6 +277,21 @@
         "padding_bottom": 52
       }
     },
+    "e4c87664-b642-461b-a529-07bfbaa9d266": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify:\/\/files\/videos\/Ad Creative 1.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "94bbf017-7b84-418f-a046-c92e0a676ee7": {
       "type": "multicolumn",
       "blocks": {
@@ -291,7 +299,7 @@
           "type": "column",
           "settings": {
             "title": "Free Shipping",
-            "text": "<p>We offer free standard shipping on all orders worldwide.<\/p>",
+            "text": "<p>We offer free shipping on all orders above $40 worldwide.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -390,10 +398,10 @@
     "main",
     "3a10a287-9063-40e1-acc2-342a7ccd25d5",
     "ca7f04a3-73e7-46ad-ad05-31a26385b894",
-    "656166e9-0081-4596-84d2-0eac3726bb85",
-    "560ea6c9-aef8-4bf6-b1c2-9e12bb1c4eaa",
+    "f32f7c72-76a0-4b07-9056-c93e98e42a6e",
     "eb427e44-b583-42ea-bbe0-2a54d47912fe",
     "f52c5f76-1ef9-448a-aecd-1cbc8c8b2897",
+    "e4c87664-b642-461b-a529-07bfbaa9d266",
     "94bbf017-7b84-418f-a046-c92e0a676ee7",
     "related-products",
     "1686075329865f6ea9",
