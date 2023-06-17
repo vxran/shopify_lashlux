@@ -50,9 +50,6 @@
     },
     "pagefly-home": {
       "type": "pagefly-home",
-      "custom_css": [
-        ".__pf_C5Pwsidi .rid-5 {color: #f84e67;}"
-      ],
       "settings": {
       }
     },
