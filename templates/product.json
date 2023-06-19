@@ -236,20 +236,20 @@
     "94bbf017-7b84-418f-a046-c92e0a676ee7": {
       "type": "multicolumn",
       "blocks": {
-        "template--19453390684462__94bbf017-7b84-418f-a046-c92e0a676ee7-1686167527c5d2beb8-0": {
-          "type": "column",
-          "settings": {
-            "title": "Free Shipping",
-            "text": "<p>We offer free shipping on all orders above $40 worldwide.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "template--19453390684462__94bbf017-7b84-418f-a046-c92e0a676ee7-1686167527c5d2beb8-1": {
           "type": "column",
           "settings": {
             "title": "World-wide Shipping",
             "text": "<p>Regardless of order size we can deliver anywhere in the world.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19453390684462__94bbf017-7b84-418f-a046-c92e0a676ee7-1686167527c5d2beb8-0": {
+          "type": "column",
+          "settings": {
+            "title": "Free Shipping for Orders $35 and above",
+            "text": "<p>We offer free shipping on all orders above $40 worldwide.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -265,8 +265,8 @@
         }
       },
       "block_order": [
-        "template--19453390684462__94bbf017-7b84-418f-a046-c92e0a676ee7-1686167527c5d2beb8-0",
         "template--19453390684462__94bbf017-7b84-418f-a046-c92e0a676ee7-1686167527c5d2beb8-1",
+        "template--19453390684462__94bbf017-7b84-418f-a046-c92e0a676ee7-1686167527c5d2beb8-0",
         "template--19453390684462__94bbf017-7b84-418f-a046-c92e0a676ee7-1686167527c5d2beb8-2"
       ],
       "custom_css": [
