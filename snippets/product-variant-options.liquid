@@ -66,7 +66,7 @@ block: block
         {% if variant.title == value %}
           {% if count == 1 %}
             <div class="variant-name-row">
-              <div class="variant-name">{{ value -}}</div>
+              <div class="variant-name">Buy {{ count -}}</div>
               <div class="variant-price">{{ variant.price | money_without_trailing_zeros }}</div>
             </div>
             <div class="variant-save-row">
@@ -75,7 +75,7 @@ block: block
             </div>
           {% else %}
             <div class="variant-name-row">
-              <div class="variant-name">{{ value -}}</div>
+              <div class="variant-name">Buy {{ count -}}</div>
               <div class="variant-price">{{ variant.price | money_without_trailing_zeros }}</div>
             </div>
           {% endif %}
