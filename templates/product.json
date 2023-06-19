@@ -198,50 +198,6 @@
         "padding_bottom": 0
       }
     },
-    "f32f7c72-76a0-4b07-9056-c93e98e42a6e": {
-      "type": "multicolumn",
-      "blocks": {
-        "7f495ff5-ab67-4ab0-a0da-fd4ed49a9223": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Compage-table2.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "50ec2984-b39a-4ee2-93e2-d5944b7c45c1": {
-          "type": "column",
-          "settings": {
-            "title": "Pheromone-Infused Perfumes Proven Effective by Science",
-            "text": "<p>Our aspiration extends beyond making you smell divine - we aim to imbue you with an aura of confidence and empowerment.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "7f495ff5-ab67-4ab0-a0da-fd4ed49a9223",
-        "50ec2984-b39a-4ee2-93e2-d5944b7c45c1"
-      ],
-      "settings": {
-        "title": "How is Venom Different?",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "eb427e44-b583-42ea-bbe0-2a54d47912fe": {
       "type": "page",
       "custom_css": [
@@ -383,7 +339,6 @@
     "main",
     "3a10a287-9063-40e1-acc2-342a7ccd25d5",
     "ca7f04a3-73e7-46ad-ad05-31a26385b894",
-    "f32f7c72-76a0-4b07-9056-c93e98e42a6e",
     "eb427e44-b583-42ea-bbe0-2a54d47912fe",
     "f52c5f76-1ef9-448a-aecd-1cbc8c8b2897",
     "94bbf017-7b84-418f-a046-c92e0a676ee7",
