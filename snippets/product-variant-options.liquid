@@ -64,37 +64,21 @@ block: block
       {% for variant in product.variants %}
         {% assign count = count | plus: 1 %}
         {% if variant.title == value %}
-          {% if count == 1 %}
-            <div class="variant-name-row">
-              <div class="variant-name">Buy {{ count -}}</div>
-              <div class="variant-price">{{ variant.price | money_without_trailing_zeros }}</div>
-            </div>
-            <div class="variant-save-row">
-              <div class="get-bonus">Get {{ count }} Free</div>
-              <div class="variant-compare">{{ variant.compare_at_price | money_without_trailing_zeros }}</div>
-            </div>
-          {% else %}
-            <div class="variant-name-row">
-              <div class="variant-name">Buy {{ count -}}</div>
-              <div class="variant-price">{{ variant.price | money_without_trailing_zeros }}</div>
-            </div>
-          {% endif %}
 
-          {% if count == 1 %}
+          <div class="variant-name-row">
+            <div class="variant-name">Buy {{ count -}}</div>
+            <div class="variant-price">{{ variant.price | money_without_trailing_zeros }}</div>
+          </div>
 
-            {% else %}
-              <div class="variant-save-row">
-                <div class="get-bonus">Get {{ count }} Free</div>
-                <div class="variant-compare">{{ variant.compare_at_price | money_without_trailing_zeros }}</div>
-              </div>
+          <div class="variant-save-row">
+            <div class="get-bonus">Get {{ count }} Free</div>
+            <div class="variant-compare">{{ variant.compare_at_price | money_without_trailing_zeros }}</div>
+          </div>
 
-              <div class="variant-name-bundle-row">
-                <div class="free-shipping">Free Shipping</div>
-                <div class="variant-save"></div>
-
-              </div>
-          {% endif %}
-
+          <div class="variant-name-bundle-row">
+            <div class="free-shipping">Free Shipping</div>
+            <div class="variant-save"></div>
+          </div>
 
         {% endif %}
       {% endfor %}
