@@ -248,6 +248,48 @@
         "padding_bottom": 52
       }
     },
+    "de28e156-787e-476b-9d5e-07b77cb4a5e5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19453390684462__de28e156-787e-476b-9d5e-07b77cb4a5e5-1687467430856d6f98-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Scientifically Proven Pheromone-Infused Perfumes Work",
+            "heading_size": "h1"
+          }
+        },
+        "template--19453390684462__de28e156-787e-476b-9d5e-07b77cb4a5e5-1687467430856d6f98-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We harness the natural power of beauty plants to create a unique blend that is scientifically proven to deliver the results we promise. Don't just take our word for it, though - check out the testimonials from our happy customers who have experienced the transformative effects of our formula. <\/p><p>We don't just want you to smell great, we want you to feel confident and empowered too.<\/p>"
+          }
+        },
+        "template--19453390684462__de28e156-787e-476b-9d5e-07b77cb4a5e5-1687467430856d6f98-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19453390684462__de28e156-787e-476b-9d5e-07b77cb4a5e5-1687467430856d6f98-0",
+        "template--19453390684462__de28e156-787e-476b-9d5e-07b77cb4a5e5-1687467430856d6f98-1",
+        "template--19453390684462__de28e156-787e-476b-9d5e-07b77cb4a5e5-1687467430856d6f98-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "94bbf017-7b84-418f-a046-c92e0a676ee7": {
       "type": "multicolumn",
       "blocks": {
@@ -357,6 +399,7 @@
     "ca7f04a3-73e7-46ad-ad05-31a26385b894",
     "eb427e44-b583-42ea-bbe0-2a54d47912fe",
     "f52c5f76-1ef9-448a-aecd-1cbc8c8b2897",
+    "de28e156-787e-476b-9d5e-07b77cb4a5e5",
     "94bbf017-7b84-418f-a046-c92e0a676ee7",
     "related-products",
     "1686075329865f6ea9",
