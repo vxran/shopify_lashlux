@@ -75,10 +75,14 @@ block: block
             <div class="variant-compare">{{ variant.compare_at_price | money_without_trailing_zeros }}</div>
           </div>
 
-          <div class="variant-name-bundle-row">
-            <div class="free-shipping">Free Shipping</div>
-            <div class="variant-save"></div>
-          </div>
+          {% if count != 1 %}
+
+            <div class="variant-name-bundle-row">
+              <div class="free-shipping">Free Shipping</div>
+              <div class="variant-save"></div>
+            </div>
+
+          {% endif %}
 
         {% endif %}
       {% endfor %}
