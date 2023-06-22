@@ -105,7 +105,7 @@
     "a1c084c5-7cff-45ac-a00b-447578219291": {
       "type": "video",
       "custom_css": [
-        ".video-section {width: 450px;}"
+        ".video-section {width: 300px;}"
       ],
       "settings": {
         "heading": "",
