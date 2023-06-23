@@ -121,54 +121,6 @@
         "padding_bottom": 36
       }
     },
-    "3a10a287-9063-40e1-acc2-342a7ccd25d5": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--19437133725998__3a10a287-9063-40e1-acc2-342a7ccd25d5-1686084341e8bdd98f-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ProductImage1.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--19437133725998__3a10a287-9063-40e1-acc2-342a7ccd25d5-1686084341e8bdd98f-0": {
-          "type": "column",
-          "settings": {
-            "title": "Travel-friendly Bottle",
-            "text": "<p>The compact size makes it incredibly convenient to carry with you wherever you venture. Enjoy your favorite scent anytime, anywhere, without the hassle of carrying a full-sized bottle.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--19437133725998__3a10a287-9063-40e1-acc2-342a7ccd25d5-1686084341e8bdd98f-1",
-        "template--19437133725998__3a10a287-9063-40e1-acc2-342a7ccd25d5-1686084341e8bdd98f-0"
-      ],
-      "custom_css": [
-        ".multicolumn-card {background: white;}",
-        "strong {font-size: 32px;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "half",
-        "image_ratio": "circle",
-        "columns_desktop": 2,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "ca7f04a3-73e7-46ad-ad05-31a26385b894": {
       "type": "multicolumn",
       "blocks": {
@@ -215,6 +167,54 @@
         "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "3a10a287-9063-40e1-acc2-342a7ccd25d5": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19437133725998__3a10a287-9063-40e1-acc2-342a7ccd25d5-1686084341e8bdd98f-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ProductImage1.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19437133725998__3a10a287-9063-40e1-acc2-342a7ccd25d5-1686084341e8bdd98f-0": {
+          "type": "column",
+          "settings": {
+            "title": "Travel-friendly Bottle",
+            "text": "<p>The compact size makes it incredibly convenient to carry with you wherever you venture. Enjoy your favorite scent anytime, anywhere, without the hassle of carrying a full-sized bottle.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19437133725998__3a10a287-9063-40e1-acc2-342a7ccd25d5-1686084341e8bdd98f-1",
+        "template--19437133725998__3a10a287-9063-40e1-acc2-342a7ccd25d5-1686084341e8bdd98f-0"
+      ],
+      "custom_css": [
+        ".multicolumn-card {background: white;}",
+        "strong {font-size: 32px;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "circle",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "eb427e44-b583-42ea-bbe0-2a54d47912fe": {
@@ -399,8 +399,8 @@
   "order": [
     "main",
     "a1c084c5-7cff-45ac-a00b-447578219291",
-    "3a10a287-9063-40e1-acc2-342a7ccd25d5",
     "ca7f04a3-73e7-46ad-ad05-31a26385b894",
+    "3a10a287-9063-40e1-acc2-342a7ccd25d5",
     "eb427e44-b583-42ea-bbe0-2a54d47912fe",
     "f52c5f76-1ef9-448a-aecd-1cbc8c8b2897",
     "de28e156-787e-476b-9d5e-07b77cb4a5e5",
