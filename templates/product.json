@@ -45,6 +45,12 @@
             "text_style": "body"
           }
         },
+        "2b6c0733-627d-4d94-8211-7a08d599a3fc": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div id=\"countdownultimate-KT\" class=\"hide-kt\"><\/div>"
+          }
+        },
         "377c4abe-fdb6-44e4-a710-32efd21f89d1": {
           "type": "collapsible_tab",
           "settings": {
@@ -80,6 +86,7 @@
         "variant_picker",
         "buy_buttons",
         "5d667edc-1d4e-4cf5-a534-126687ae33ac",
+        "2b6c0733-627d-4d94-8211-7a08d599a3fc",
         "377c4abe-fdb6-44e4-a710-32efd21f89d1",
         "cbc369a4-61d1-4520-b285-693ca53c9354",
         "d79b5288-f699-4fb6-972e-bd3c5e33eeaf"
