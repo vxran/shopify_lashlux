@@ -245,7 +245,10 @@
     </script>
   {% capture cur %}{% include "booster-currency" %}{% endcapture %}{% unless cur contains "Liquid error" %}{{ cur }}{% endunless %}
 {% include 'bucks-cc' %}
-            </head>
+            <!--Gem_Page_Header_Script-->
+{% render 'gem-app-header-scripts' %}
+<!--End_Gem_Page_Header_Script-->
+</head>
 
   <body>
 <div class="gem-container">
