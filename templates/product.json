@@ -102,15 +102,6 @@
         "padding_bottom": 12
       }
     },
-    "c4627bb5-1db3-416d-95b6-72f4077e1d99": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<script src=\"https:\/\/fast.wistia.com\/embed\/medias\/z98x4z08k4.jsonp\" async><\/script><script src=\"https:\/\/fast.wistia.com\/assets\/external\/E-v1.js\" async><\/script><div class=\"wistia_responsive_padding\" style=\"padding:177.78% 0 0 0;position:relative;\"><div class=\"wistia_responsive_wrapper\" style=\"height:100%;left:0;position:absolute;top:0;width:100%;\"><div class=\"wistia_embed wistia_async_z98x4z08k4 videoFoam=true\" style=\"height:100%;position:relative;width:100%\">&nbsp;<\/div><\/div><\/div>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "a1c084c5-7cff-45ac-a00b-447578219291": {
       "type": "video",
       "disabled": true,
@@ -408,7 +399,6 @@
   },
   "order": [
     "main",
-    "c4627bb5-1db3-416d-95b6-72f4077e1d99",
     "a1c084c5-7cff-45ac-a00b-447578219291",
     "3a10a287-9063-40e1-acc2-342a7ccd25d5",
     "ca7f04a3-73e7-46ad-ad05-31a26385b894",
