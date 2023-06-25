@@ -179,7 +179,7 @@
     "blocks": {
       "5394804488230052649": {
         "type": "shopify:\/\/apps\/countdown-timer-ultimate\/blocks\/app-embed\/3da8fad5-a736-4384-8c4e-b54de86a161c",
-        "disabled": false,
+        "disabled": true,
         "settings": {
         }
       }
