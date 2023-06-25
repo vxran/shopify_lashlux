@@ -110,6 +110,40 @@
         "padding_bottom": 12
       }
     },
+    "f8aa8c0f-ea16-4052-8501-b09e4a846ecd": {
+      "type": "multirow",
+      "blocks": {
+        "template--19453390684462__f8aa8c0f-ea16-4052-8501-b09e4a846ecd-168773667522bc6b49-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/New_img.png",
+            "caption": "",
+            "heading": "Why Everyone Loves Pheromone Perfume?",
+            "text": "<p><strong>☑️Simply rub it to your skin in circular motion<br\/>☑️Up to 8 Hours of Fresh Fragrance<br\/>☑️Naturally attract your crush<\/strong><\/p>",
+            "button_label": "Buy 1 Get 1 Free",
+            "button_link": "shopify:\/\/products\/venoms-pheromone-scent"
+          }
+        }
+      },
+      "block_order": [
+        "template--19453390684462__f8aa8c0f-ea16-4052-8501-b09e4a846ecd-168773667522bc6b49-2"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "ca7f04a3-73e7-46ad-ad05-31a26385b894": {
       "type": "multicolumn",
       "blocks": {
@@ -286,18 +320,10 @@
     "94bbf017-7b84-418f-a046-c92e0a676ee7": {
       "type": "multicolumn",
       "blocks": {
-        "template--19453390684462__94bbf017-7b84-418f-a046-c92e0a676ee7-1686167527c5d2beb8-1": {
-          "type": "column",
-          "settings": {
-            "title": "World-wide Shipping",
-            "text": "<p>Regardless of order size we can deliver anywhere in the world.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "template--19453390684462__94bbf017-7b84-418f-a046-c92e0a676ee7-1686167527c5d2beb8-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/1_c6b817f5-8c59-4be5-b59c-e5a16514040d.png",
             "title": "Free Shipping for Orders $35 and above",
             "text": "<p>We offer free shipping on all orders above $40 worldwide.<\/p>",
             "link_label": "",
@@ -307,20 +333,28 @@
         "template--19453390684462__94bbf017-7b84-418f-a046-c92e0a676ee7-1686167527c5d2beb8-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/3.png",
             "title": "100's Of Happy Customers",
             "text": "<p>Our customers all around the world have nothing but good to say about our product. We are certain you will love it too!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b0c4cddf-e607-488a-a033-9ffdb9195bbb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "title": "World-wide Shipping",
+            "text": "<p>Regardless of order size we can deliver anywhere in the world.<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "template--19453390684462__94bbf017-7b84-418f-a046-c92e0a676ee7-1686167527c5d2beb8-1",
         "template--19453390684462__94bbf017-7b84-418f-a046-c92e0a676ee7-1686167527c5d2beb8-0",
-        "template--19453390684462__94bbf017-7b84-418f-a046-c92e0a676ee7-1686167527c5d2beb8-2"
-      ],
-      "custom_css": [
-        ".multicolumn-card {background-color: #fcebee;}"
+        "template--19453390684462__94bbf017-7b84-418f-a046-c92e0a676ee7-1686167527c5d2beb8-2",
+        "b0c4cddf-e607-488a-a033-9ffdb9195bbb"
       ],
       "settings": {
         "title": "Why Us?",
@@ -387,6 +421,7 @@
   },
   "order": [
     "main",
+    "f8aa8c0f-ea16-4052-8501-b09e4a846ecd",
     "ca7f04a3-73e7-46ad-ad05-31a26385b894",
     "3a10a287-9063-40e1-acc2-342a7ccd25d5",
     "eb427e44-b583-42ea-bbe0-2a54d47912fe",
