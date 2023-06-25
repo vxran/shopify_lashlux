@@ -47,6 +47,7 @@
         },
         "2b6c0733-627d-4d94-8211-7a08d599a3fc": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div id=\"countdownultimate-KT\" class=\"hide-kt\"><\/div>"
           }
@@ -107,57 +108,6 @@
         "enable_video_looping": true,
         "padding_top": 12,
         "padding_bottom": 12
-      }
-    },
-    "bf549a9d-94c1-4603-9657-59dd5ccc8056": {
-      "type": "image-banner",
-      "blocks": {
-        "template--19453390684462__bf549a9d-94c1-4603-9657-59dd5ccc8056-1687736398f51c2784-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "template--19453390684462__bf549a9d-94c1-4603-9657-59dd5ccc8056-1687736398f51c2784-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "template--19453390684462__bf549a9d-94c1-4603-9657-59dd5ccc8056-1687736398f51c2784-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--19453390684462__bf549a9d-94c1-4603-9657-59dd5ccc8056-1687736398f51c2784-0",
-        "template--19453390684462__bf549a9d-94c1-4603-9657-59dd5ccc8056-1687736398f51c2784-1",
-        "template--19453390684462__bf549a9d-94c1-4603-9657-59dd5ccc8056-1687736398f51c2784-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/1.png",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     },
     "ca7f04a3-73e7-46ad-ad05-31a26385b894": {
@@ -437,7 +387,6 @@
   },
   "order": [
     "main",
-    "bf549a9d-94c1-4603-9657-59dd5ccc8056",
     "ca7f04a3-73e7-46ad-ad05-31a26385b894",
     "3a10a287-9063-40e1-acc2-342a7ccd25d5",
     "eb427e44-b583-42ea-bbe0-2a54d47912fe",
