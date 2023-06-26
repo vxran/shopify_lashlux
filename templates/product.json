@@ -325,7 +325,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/1_c6b817f5-8c59-4be5-b59c-e5a16514040d.png",
             "title": "Free Shipping for Orders $35 and above",
-            "text": "<p>We offer free shipping on all orders above $40 worldwide.<\/p>",
+            "text": "<p>We offer free shipping on all orders above $35 worldwide.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -356,13 +356,16 @@
         "template--19453390684462__94bbf017-7b84-418f-a046-c92e0a676ee7-1686167527c5d2beb8-2",
         "b0c4cddf-e607-488a-a033-9ffdb9195bbb"
       ],
+      "custom_css": [
+        ".multicolumn-list {background-color: white;}"
+      ],
       "settings": {
         "title": "Why Us?",
         "heading_size": "h1",
-        "image_width": "full",
+        "image_width": "third",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
