@@ -119,7 +119,7 @@
             "image": "shopify:\/\/shop_images\/New_img.png",
             "caption": "",
             "heading": "Why Everyone Loves Pheromone Perfume?",
-            "text": "<p><strong>☑️Simply rub it to your skin in circular motion<br\/>☑️Up to 8 Hours of Fresh Fragrance<br\/>☑️Naturally attract your crush<\/strong><\/p>",
+            "text": "<p>🌸<strong>Simply rub it to your skin in circular motion<br\/><\/strong>🌸<strong>Up to 8 Hours of Fresh Fragrance<br\/><\/strong>🌸<strong>Naturally attract your crush<\/strong><\/p>",
             "button_label": "Buy 1 Get 1 Free",
             "button_link": "shopify:\/\/products\/venoms-pheromone-scent"
           }
@@ -347,6 +347,7 @@
     },
     "de28e156-787e-476b-9d5e-07b77cb4a5e5": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--19453390684462__de28e156-787e-476b-9d5e-07b77cb4a5e5-1687467430856d6f98-0": {
           "type": "heading",
