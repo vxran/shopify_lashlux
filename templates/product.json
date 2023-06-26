@@ -240,6 +240,76 @@
         "padding_bottom": 36
       }
     },
+    "cdfbafb9-38a8-4ce3-b615-f058e42d2519": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19453390684462__cdfbafb9-38a8-4ce3-b615-f058e42d2519-16877378913a757220-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wand.png",
+            "title": "🌸 Brewed by wizards to attract",
+            "text": "<p>Let them crave for you! Get comments and attract people naturally<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19453390684462__cdfbafb9-38a8-4ce3-b615-f058e42d2519-16877378913a757220-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/clock.png",
+            "title": "🌸 Strong and Long Lasting Fragrance",
+            "text": "<p>Apply once and enjoy the magic for next 8 hours with full confidence and leave your never ending hassle behind.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19453390684462__cdfbafb9-38a8-4ce3-b615-f058e42d2519-16877378913a757220-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/leaf_2.png",
+            "title": "🌸Made with natural ingredients",
+            "text": "<p>Crafted from yuzu with juicy pomegranate, as heart notes of peony lotus, people will ask where you got it.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fca6f10d-4378-4491-b9e8-fb6009b77f3c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/thumbs.png",
+            "title": "🌸 Easy to Use",
+            "text": "<p>2 roll of perfume on your neck and you are good to go for rocking party, night out, or clubbing.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19453390684462__cdfbafb9-38a8-4ce3-b615-f058e42d2519-16877378913a757220-0",
+        "template--19453390684462__cdfbafb9-38a8-4ce3-b615-f058e42d2519-16877378913a757220-1",
+        "template--19453390684462__cdfbafb9-38a8-4ce3-b615-f058e42d2519-16877378913a757220-2",
+        "fca6f10d-4378-4491-b9e8-fb6009b77f3c"
+      ],
+      "custom_css": [
+        ".multicolumn.background-primary .multicolumn-card {background: white;}"
+      ],
+      "settings": {
+        "title": "Get the attraction you deserve!",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "eb427e44-b583-42ea-bbe0-2a54d47912fe": {
       "type": "page",
       "custom_css": [
@@ -357,7 +427,7 @@
         "b0c4cddf-e607-488a-a033-9ffdb9195bbb"
       ],
       "custom_css": [
-        ".multicolumn-list {background-color: white;}"
+        ".multicolumn.background-primary .multicolumn-card {background: white;}"
       ],
       "settings": {
         "title": "Why Us?",
@@ -427,6 +497,7 @@
     "f8aa8c0f-ea16-4052-8501-b09e4a846ecd",
     "ca7f04a3-73e7-46ad-ad05-31a26385b894",
     "3a10a287-9063-40e1-acc2-342a7ccd25d5",
+    "cdfbafb9-38a8-4ce3-b615-f058e42d2519",
     "eb427e44-b583-42ea-bbe0-2a54d47912fe",
     "f52c5f76-1ef9-448a-aecd-1cbc8c8b2897",
     "de28e156-787e-476b-9d5e-07b77cb4a5e5",
