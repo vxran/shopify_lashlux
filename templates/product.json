@@ -395,8 +395,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/1_c6b817f5-8c59-4be5-b59c-e5a16514040d.png",
-            "title": "Free Shipping for Orders $35 and above",
-            "text": "<p>We offer free shipping on all orders above $35 worldwide.<\/p>",
+            "title": "Free Shipping for all Orders",
+            "text": "<p>We offer free shipping on all orders.<\/p>",
             "link_label": "",
             "link": ""
           }
